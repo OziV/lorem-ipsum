@@ -1,6 +1,6 @@
 # Lorem Ipsum
 
-> React text Generator app.
+> React text generator app.
 
 ## Site URL
 
